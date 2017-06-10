@@ -1,0 +1,24 @@
+Spml_Write_Action、Spml_Read_Action、
+administrator/Ql@150701
+BPMDemoSC of demo.com
+portal ,webDynpro,BPM -CE( Composition Environment )
+EP(Enterprise Portal):Portal,Collaboration,Knowledge Management)
+http://www.sdn.com/irj/sdn/index
+
+P-66 模块配置  学习SAP
+30 minutes（SCN）
+2012-10-08 BPM
+Ql@140126
+scn :qiuli@khsoftech.com /qiu,Li51
+portal ：qiuli/Ql@140707
+qq/kg（酷狗）/有道
+公司teamViewID：278360294/Ql@140126
+
+巩固WDjava ，加深理解BPM
+学习UI5，了解Hana
+京东：13020249802/qiuli_jd
+     搜房      /qiuli140719sf
+ItPub 账号：QxiaoC
+      密码：qiuyuxiang123
+
+http://download.csdn.net/detail/zechaolee168/7589915
